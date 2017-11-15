@@ -1,4 +1,4 @@
 .idea
 folder
 out
-.iml
+*.iml
